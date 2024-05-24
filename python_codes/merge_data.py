@@ -16,5 +16,5 @@ df_combined = pd.concat([df1, df2])
 output_file_path = '/Users/susmitsingh/Susmit_Singh/python_codes/dvc_demo/data/merged_1.csv'
 df_combined.to_csv(output_file_path)
 
-# Step 5: Display the first few rows of the combined DataFrame
+# Step 5: Display the first few rows of the combined DataFrame (optional step)
 df_combined.head()
