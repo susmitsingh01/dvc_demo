@@ -1,0 +1,5 @@
+outs:
+- md5: bd19bc49d15fa8a7bb9ffef310ae341d
+  size: 5999700
+  hash: md5
+  path: half_data.csv
